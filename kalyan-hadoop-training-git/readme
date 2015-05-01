@@ -1,0 +1,4 @@
+This project is expecting hadoop need to be installed in this folder.
+/home/hadoop/work/hadoop-1.1.2
+
+If not change the .classpath file paths
